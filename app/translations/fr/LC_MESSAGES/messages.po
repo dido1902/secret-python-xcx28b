@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ISKAN 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-15 12:00+0000\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Missing required fields"
+msgstr "Champs obligatoires manquants"
+
+msgid "Invalid email format"
+msgstr "Format d'email invalide"
+
+msgid "Password must be at least 8 characters"
+msgstr "Le mot de passe doit contenir au moins 8 caractères"
+
+msgid "Email already registered"
+msgstr "Email déjà enregistré"
+
+msgid "User registered successfully"
+msgstr "Utilisateur enregistré avec succès"
+
+msgid "Invalid credentials"
+msgstr "Identifiants invalides"
+
+msgid "Admin privileges required"
+msgstr "Privilèges administrateur requis"
+
+msgid "Property created successfully"
+msgstr "Propriété créée avec succès"
+
+msgid "Property updated successfully"
+msgstr "Propriété mise à jour avec succès"
+
+msgid "Property deleted successfully"
+msgstr "Propriété supprimée avec succès"
+
+msgid "Price exceeds maximum limit"
+msgstr "Le prix dépasse la limite maximale"

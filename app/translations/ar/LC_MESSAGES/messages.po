@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ISKAN 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-15 12:00+0000\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Missing required fields"
+msgstr "حقول مطلوبة مفقودة"
+
+msgid "Invalid email format"
+msgstr "تنسيق البريد الإلكتروني غير صالح"
+
+msgid "Password must be at least 8 characters"
+msgstr "يجب أن تكون كلمة المرور 8 أحرف على الأقل"
+
+msgid "Email already registered"
+msgstr "البريد الإلكتروني مسجل بالفعل"
+
+msgid "User registered successfully"
+msgstr "تم تسجيل المستخدم بنجاح"
+
+msgid "Invalid credentials"
+msgstr "بيانات الاعتماد غير صالحة"
+
+msgid "Admin privileges required"
+msgstr "مطلوب صلاحيات المسؤول"
+
+msgid "Property created successfully"
+msgstr "تم إنشاء العقار بنجاح"
+
+msgid "Property updated successfully"
+msgstr "تم تحديث العقار بنجاح"
+
+msgid "Property deleted successfully"
+msgstr "تم حذف العقار بنجاح"
+
+msgid "Price exceeds maximum limit"
+msgstr "السعر يتجاوز الحد الأقصى"
